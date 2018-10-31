@@ -1,0 +1,25 @@
+{
+  "name": "pull_request",
+  "payload": {
+    "action": "opened",
+    "pull_request": {
+      "number": 21,
+      "user": {
+        "login": "rittme"
+      },
+      "title": "This is a pr",
+      "head": {
+        "sha": "123456"
+      }
+    },
+    "repository": {
+      "name": "testing-things",
+      "owner": {
+        "login": "rittme"
+      }
+    },
+    "installation": {
+      "id": 35029
+    }
+  }
+}
